@@ -1,5 +1,2 @@
 # Ignore Python bytecode files
 *.pyc
-
-# Ignore environment variable files
-.env
